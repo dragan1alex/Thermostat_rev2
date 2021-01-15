@@ -1,1 +1,3 @@
 /Debug/
+/Release/*
+!/Release/F730_lcd_display.hex
