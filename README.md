@@ -20,3 +20,5 @@ ToDo: Implement the LCD driver once the LCD arrives, due to current events the s
 Also implement an LCD control task, LCD display models and interface logic.
 
 The written code can be found in /Core/Inc and /Core/Src. It is not yet docummented but I tried to make the functions self-explanatory.
+
+Project created in STM32CubeIDE 1.5.0
