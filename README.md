@@ -16,3 +16,5 @@ Besides that, a WiFi module (ESP-12F) is used purely as a network interface and 
 
 ToDo: Implement the LCD driver once the LCD arrives, due to current events the shipments from China are slower than usual. 
 Also implement an LCD control task, LCD display models and interface logic.
+
+The written code can be found in /Core/Inc and /Core/Src. It is not yet docummented but I tried to make the functions self-explanatory.
