@@ -4,6 +4,8 @@
 DISCLAIMER:
 This is a hobby project, it will be completed as the free time allows it :)
 
+You are free to use any component of this software as you please, as long as the code you chose to use or modify is written by me. STM has a license agreement you need to read before using/modifying/redistributing their bits and pieces of software.
+
 
 This is the second revision of the thermostat, it is an exercise to understand how a TFT panel works and how to interpret capacitive touch data.
 
