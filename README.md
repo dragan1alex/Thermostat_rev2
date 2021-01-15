@@ -9,7 +9,7 @@ This is the second revision of the thermostat, it is an exercise to understand h
 
 Initially the project started as a pure LCD developement board, but one thing lead to another and now it has WiFi, a temperature + humidity sensor, SPI Flash, a relay and the LCD of course.
 
-The project is based on the STM32F730 Arm® Cortex®-M7 microcontroller set up to run FreeRTOS as the main processor. 
+The project is based on the STM32F730 Arm Cortex-M7 MCU as the main processor, set up to run FreeRTOS. 
 It should have enough processing power to dynamically display some data, but not enough memory to manage a full resolution buffer (to make things interesting).
 
 Besides that, a WiFi module (ESP-12F) is used purely as a network interface and web server, all the logic happens inside the STM.
